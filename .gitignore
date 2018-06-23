@@ -1,2 +1,6 @@
 praw.ini
 .ipynb_checkpoints/
+.idea/
+
+# TODO use an actual output folder
+quality_reports.txt
